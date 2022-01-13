@@ -1,9 +1,47 @@
-# Data-Visualization-with-Tableau
+<a href="https://github.com/bdfd"><img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" /></a>
+![ViewCount](<https://views.whatilearened.today/views/github/BDFD-LearningGround/Modern-Big-Data-Analysis-with-SQL-Specialization_OP.svg?cache=remove>)
+![GitHub top language](<https://img.shields.io/github/languages/top/BDFD-LearningGround/Modern-Big-Data-Analysis-with-SQL-Specialization_OP?style=flat>)
+![GitHub language count](https://img.shields.io/github/languages/count/BDFD-LearningGround/Modern-Big-Data-Analysis-with-SQL-Specialization_OP?style=flat)
+<img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/On_Progress.svg" alt="bdfd" />
 
-the specialization "DATA VISUALIZATION WITH TABLEAU" offered by UC DAVIS on Cousera (E-Learning platform) Consisting of Five Courses given below:-
+# Modern Big Data Analysis with SQL Specialization
 
-1. Fundamentals of Visualization with Tableau
-2. Essential Design Principles for Tableau
-3. Visual Analytics with Tableau
-4. Creating Dashboards and Storytelling with Tableau
-5. Data Visualization with Tableau Project
+## About This Course/Certificate
+
+About This workshop and the materials in this repo are for anyone who is interested in working with Data Science to produce high quality, working style! Check out follow course link if you think it is interested.
+
+**Course Link:** [Modern Big Data Analysis with SQL Specialization](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql)
+
+## Course Learn Path
+
+The courses enlisted as follows:
+
+- [x] **C1-Foundations for Big Data Analysis with SQL**
+- [x] **C2-Analyzing Big Data with SQL**
+- [ ] **C3-Managing Big Data in Clusters and Cloud Storage**
+
+## Course Description: 3 Course
+
+This Specialization is designed to provide excellent preparation for the Cloudera Certified Associate (CCA) Data Analyst certification exam. You can earn this certification credential by taking a hands-on practical exam using the same SQL engines that this Specialization teaches—Hive and Impala.
+
+## Applied Learning Project
+
+**Tools:** SQL, Hive, Impala, Cloud
+
+**Libraries:**  
+
+**Projects:**  
+
+## Course Certificate
+
+Total Hours: ~48 Hrs
+
+<div align="center">
+
+### Thanks For Watch This Repositories!
+
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><i>KEEP AWESOME & STAY COOL!</i><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+### Feel Free To Fork And Report If You Find Any Issue :)
+
+</div>
